@@ -103,3 +103,5 @@ notifications:
 addons:
   firefox: "45.0"
   chrome: stable
+  
+  
